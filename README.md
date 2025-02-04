@@ -8,16 +8,21 @@ The Power BI dashboard provides an interactive and data-driven approach to under
 
 ## Time-Based Sales Trends:
 ✅ Identifies peak sales hours & busiest order days ⏰
+
 ✅ Tracks monthly revenue fluctuations 📈
 ## Product Performance:
 ✅ Highlights the best-selling pizza categories & their revenue contribution 💵
+
 ✅ Determines the most popular pizza sizes based on order count 📊
 ## Revenue Insights:
 ✅ Displays Total Revenue & Total Items Sold using KPI cards 📟
+
 ✅ Analyzes revenue distribution by day, month, and pizza type 📆
 ## Interactive Visualizations:
 ✅ Line charts for time-series analysis 📉
+
 ✅ Bar charts for product and category-wise comparisons 📊
+
 ✅ KPI indicators for quick insights 🎯
 
 ## Key Performance Indicators (KPIs)
