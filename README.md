@@ -1,4 +1,4 @@
-🍕 #Domino’s Sales Analysis Dashboard – Power BI
+🍕 # Domino’s Sales Analysis Dashboard – Power BI
 
 ##Project objective:
 This project focuses on analyzing and visualizing Domino’s sales data using Power BI 📊. The dataset includes key attributes such as order details, pizza categories, prices, quantities, and timestamps. The goal is to extract valuable business insights using data analytics & visualization techniques.
